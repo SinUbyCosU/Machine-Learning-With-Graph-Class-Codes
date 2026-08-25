@@ -23,7 +23,6 @@ nx.draw_circular(g,with_labels=True, node_color='lightgreen')  # Draw the graph 
 """Estimate the following from the above graph: 1. Number of nodes, 2. Number
 of edges, 3. Number of connected components, 4. Diameter
 ."""
-
 G.number_of_nodes()  # Count and return the number of vertices in the undirected graph.
 G.number_of_edges()  # Count and return the number of edges in the undirected graph.
 nx.number_of_connected_components(G)  # Count and return the connected components in the graph.
