@@ -1,0 +1,6 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+directed_graph.png
+karate_partition.png
